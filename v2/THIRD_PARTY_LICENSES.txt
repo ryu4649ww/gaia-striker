@@ -1,0 +1,23 @@
+GAIA STRIKER ―地球奪還十二戦線― で使っている他者の素材
+
+■ 楽器の音（ギター・ベース・ストリングス・鐘）
+FluidR3_GM SoundFont（Frank Wen ほか）
+ライセンス: Creative Commons Attribution 3.0（CC BY 3.0） https://creativecommons.org/licenses/by/3.0/
+取得元: https://github.com/gleitz/midi-js-soundfonts （FluidR3_GM を mp3 に書き出したもの。リポジトリのコードは MIT License, Copyright (C) 2012 Benjamin Gleitzman）
+使った楽器: Distortion Guitar / Overdriven Guitar / Electric Bass (pick) / Synth Strings 1 / Tubular Bells
+加工: 必要な音域の音だけを抜き出し、楽器ごとに1つのファイルにまとめた（snd/*.bin。音そのものは変更していない）。
+ゲームの中で、この音を音程を変えて並べ、曲として書き出して鳴らしている。
+
+■ ドラムの音
+Versilian Community Sample Library（VCSL, Sam Gossner ほか）
+ライセンス: CC0 1.0 Universal（パブリックドメイン） https://creativecommons.org/publicdomain/zero/1.0/
+取得元: https://github.com/sgossner/VCSL
+加工: 短く切りそろえ、モノラルにして音量をそろえた。キックは大太鼓の音に合成した低音を重ねた（snd/drums.bin）。
+
+■ 曲（18曲）
+すべてこのゲームのために新しく作曲したもの（プログラムで旋律・リフ・ドラムを組み立てている）。既存の曲・録音は使っていない。
+
+■ プログラム・絵・効果音
+すべてこのゲームのために作ったもの。外部の画像・フォントは使っていない。
+『スーパースターソルジャー』（ハドソン、1990年）の遊びの仕組みを参考にした完全オリジナル作品で、名前・キャラクター・曲・絵は使っていない。
+名所（東京タワー・自由の女神など）は、物語の中で侵略者に作り替えられた姿として描いている。
