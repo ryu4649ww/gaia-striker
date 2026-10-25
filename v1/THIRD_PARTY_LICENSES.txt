@@ -14,16 +14,8 @@ Versilian Community Sample Library（VCSL, Sam Gossner ほか）
 取得元: https://github.com/sgossner/VCSL
 加工: 短く切りそろえ、モノラルにして音量をそろえた。キックは大太鼓の音に合成した低音を重ねた（snd/drums.bin）。
 
-■ v2 の曲の楽器の音（assets/music/*.mp3）
-GeneralUser GS v2.0.3（S. Christian Collins）
-ライセンス: 自分の音楽制作に制限なく使用可（私用・商用とも）。ソフトウェアでの使用・改変も可（同梱の LICENSE v2.0 より）。
-取得元: http://www.schristiancollins.com
-加工: エレキギター（クリーン・ミュート）をプログラムのアンプ・キャビネットの響きに通して歪ませ、ベース・ドラムと合わせて曲として書き出した（SoundFont そのものは配布していない）。
-
 ■ 曲（18曲）
-すべてこのゲームのために新しく作曲したもの。v2 の曲は旋律・リフ・ドラムを楽譜として手で書いた。既存の曲・録音は使っていない。
-（v2 の各面の曲名：1 NEON SIEGE／2 IRON DRAGON RIDGE／3 LION OF THE STRAIT／4 SANDS OF THE SPHINX／5 TORRE PENDENTE／6 IRON LADY OF THE SEINE／7 CHIMES OF IRON／8 LIBERTY ENGINE／9 SPIRITS OF THE PAMPA／10 HARBOUR OF SHELLS／11 STONE GIANTS／12 MOTHER OF THE SUMMIT）
-7面の前奏とサビの頭は、ウェストミンスターの鐘の節（1859年、作者不詳の伝統的な旋律でパブリックドメイン）を短調に直して使っている。
+すべてこのゲームのために新しく作曲したもの（プログラムで旋律・リフ・ドラムを組み立てている）。既存の曲・録音は使っていない。
 
 ■ プログラム・絵・効果音
 すべてこのゲームのために作ったもの。外部の画像・フォントは使っていない。

@@ -1,4 +1,9 @@
 {
+ "title": {
+  "loopStart": 5.714285714285714,
+  "loopEnd": 40.0,
+  "sec": 40.0
+ },
  "stage1": {
   "loopStart": 5.217369614512472,
   "loopEnd": 67.82607709750567,
@@ -58,5 +63,30 @@
   "loopStart": 4.615374149659864,
   "loopEnd": 59.999977324263035,
   "sec": 59.999977324263035
+ },
+ "boss": {
+  "loopStart": 2.4,
+  "loopEnd": 50.4,
+  "sec": 50.4
+ },
+ "lastboss": {
+  "loopStart": 4.528299319727891,
+  "loopEnd": 58.86791383219955,
+  "sec": 58.86791383219955
+ },
+ "clear": {
+  "loopStart": null,
+  "loopEnd": null,
+  "sec": 6.5
+ },
+ "gameover": {
+  "loopStart": null,
+  "loopEnd": null,
+  "sec": 12.434761904761904
+ },
+ "ending": {
+  "loopStart": 6.4,
+  "loopEnd": 44.8,
+  "sec": 44.8
  }
 }
